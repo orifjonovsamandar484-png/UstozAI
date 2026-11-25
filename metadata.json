@@ -1,0 +1,6 @@
+{
+  "name": "UstozAI",
+  "description": "O'qituvchilar uchun AI yordamchi: avtomatik dars rejalari, testlar, qo'shimcha materiallar, o'quvchilar natijalari monitoringi va individual tavsiyalar paneli.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
